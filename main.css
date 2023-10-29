@@ -229,6 +229,7 @@ header .logo a{
 	position: relative;
 	width: 100%;
 	height: 100vh;
+    height: var(--vh);
 	overflow: hidden;
 }
 .visual .video-sect{
