@@ -1035,4 +1035,7 @@ footer.on .inner a img {
 	.greetings br {
 		display: none;
 	}
+	.m{
+		min-width: 5px;
+	}
 }
